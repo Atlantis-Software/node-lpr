@@ -1,0 +1,21 @@
+{
+  "name": "node-lpr",
+  "description": "line printer remote library for Node.js",
+  "version": "0.0.1",
+  "author": "Alexandre Tiertant <a.tiertant@atlantis-software.net>",
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": "https://github.com/Atlantis-Software/node-lpr",
+  "homepage": "https://github.com/Atlantis-Software/node-lpr",
+  "keywords": [
+    "lpr",
+    "lpd",
+    "printer"
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
